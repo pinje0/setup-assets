@@ -1,0 +1,19 @@
+Skils: 
+npx skills add https://github.com/vercel-labs/skills --skill find-skills
+
+---
+
+Frontend:
+1. Nextjs:
+npx skills add https://github.com/anthropics/skills --skill frontend-design
+npx skills add https://github.com/vercel-labs/agent-skills --skill web-design-guidelines
+npx skills add https://github.com/vercel-labs/next-skills --skill next-best-practices
+npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max
+
+---
+
+Backend:
+1. Golang:
+npx skills add https://github.com/samber/cc-skills-golang --all
+npx skills add https://github.com/jeffallan/claude-skills --skill golang-pro
+npx skills add https://github.com/affaan-m/everything-claude-code --skill golang-patterns
